@@ -1,3 +1,8 @@
-blablabla
-sample_app  
-test git
+there is the tree static pages:
+home
+contact
+about
+
+the main page described in application.html.erb
+the title in pages_controller.rb
+also I've used application helper for title 
